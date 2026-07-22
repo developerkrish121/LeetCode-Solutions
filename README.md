@@ -5,8 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/developerkrish121/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [1920-build-array-from-permutation](https://github.com/developerkrish121/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/developerkrish121/LeetCode-Solutions/tree/master/0001-two-sum) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/developerkrish121/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
